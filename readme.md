@@ -1,1 +1,1 @@
-### Parse CCLF Files into CSVs using gsed on macos
+### Parse CCLF Files into CSVs using sed
